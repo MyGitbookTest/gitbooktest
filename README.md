@@ -2,28 +2,14 @@
 description: but this is page one
 ---
 
-# this is the title
+# Secure Access
 
-## Getting Super Powers is important!!!
+## Overview
 
-Becoming a super hero is a fairly straight forward process:
+Securing access of an application is an essential of each SaaS
 
-```
-$ give me super-powers
-```
+We would like to provide our users with secured method of authentication, granularity of authorization and the ability of implementing their security metrics into our SaaS product with minimum effort.
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
-
-
+This is exactly the goal of `Frontegg Secure Access` experience.  
+Allowing developers to focus on their IP and core business without the need to maintain yet another generic identity and authorization concerns.
 
