@@ -1,10 +1,6 @@
----
-description: but this is page one
----
+# second page
 
-# this is the title
-
-## Getting Super Powers is important
+## Getting Super Powers
 
 Becoming a super hero is a fairly straight forward process:
 
